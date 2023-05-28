@@ -1,7 +1,7 @@
 # Rain_Fall_Prediction
 In this Repository you can able to see the Rain_Fall_Prediction problem 
 
-# Steps 
+# Work flow
 * Understanding Data
 * Importing Libraries
 * Loading DataSet
